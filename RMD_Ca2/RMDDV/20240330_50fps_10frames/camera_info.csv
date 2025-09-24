@@ -1,0 +1,16 @@
+Serial Number,VSC-09321
+Fan Speed,On
+Sensor Cooling,0
+Trigger Mode,External
+Cycle Mode,Continuous
+Pixel Encoding,Mono16
+SimplePreAmpGainControl,16-bit (low noise & high well capacity)
+AOI Binning,2x2
+AOI Width,1024
+AOI Left,1
+AOI Height,1024
+Vertically Centre AOI,1
+Pixel Readout Rate,270 MHz
+Exposure Time,0.0100032
+Overlap,0
+Frame Rate,50.2978
